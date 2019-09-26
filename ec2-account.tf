@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIA35MWMCSWKGVUC2J2"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 resource "aws_instance" "dft_spacewalk" {
